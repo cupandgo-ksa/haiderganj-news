@@ -1,0 +1,111 @@
+{
+ "destinationProject": "haiderganj-news",
+ "documents": [
+  {
+   "path": "categories/বাংলাদেশ-mtz7usz8",
+   "fields": {
+    "name": {
+     "stringValue": "বাংলাদেশ"
+    },
+    "order": {
+     "integerValue": "11"
+    },
+    "nameEn": {
+     "stringValue": "Bangladesh"
+    },
+    "updatedAt": {
+     "timestampValue": "2026-09-13T03:06:37.977Z"
+    }
+   }
+  },
+  {
+   "path": "siteSettings/general",
+   "fields": {
+    "publisherName": {
+     "stringValue": "মোঃ আলী গাইন"
+    },
+    "customFontUrl": {
+     "stringValue": ""
+    },
+    "adImageData": {
+     "stringValue": ""
+    },
+    "customFontFamily": {
+     "stringValue": ""
+    },
+    "tagline": {
+     "stringValue": ""
+    },
+    "adPlaceFeed": {
+     "booleanValue": true
+    },
+    "youtube": {
+     "stringValue": ""
+    },
+    "about": {
+     "stringValue": "হায়দারগঞ্জ ও চাঁদপুরের স্থানীয় সংবাদসহ দেশ, প্রবাস ও বিশ্বের গুরুত্বপূর্ণ খবর নিয়ে হায়দারগঞ্জ নিউজ। সঠিক তথ্য ও দায়িত্বশীল সাংবাদিকতার মাধ্যমে মানুষের কথা তুলে ধরাই আমাদের লক্ষ্য।"
+    },
+    "updatedAt": {
+     "timestampValue": "2026-11-17T20:35:14.000Z"
+    },
+    "name": {
+     "stringValue": "হায়দারগঞ্জ নিউজ"
+    },
+    "facebook": {
+     "stringValue": "https://www.facebook.com/share/1HLN1BoUGF/"
+    },
+    "adPlaceArticleBottom": {
+     "booleanValue": true
+    },
+    "logoData": {
+     "stringValue": "https://cupandgo-ksa.github.io/haiderganj-news/site-logo.png"
+    },
+    "adPlaceFooter": {
+     "booleanValue": true
+    },
+    "adLink": {
+     "stringValue": ""
+    },
+    "email": {
+     "stringValue": ""
+    },
+    "headerAnimation": {
+     "stringValue": "tvSweep"
+    },
+    "logoSize": {
+     "integerValue": "75"
+    },
+    "ownerName": {
+     "stringValue": "মোঃ আলী হোসেন"
+    },
+    "headlineWeight": {
+     "stringValue": "700"
+    },
+    "adLabel": {
+     "stringValue": ""
+    },
+    "editorName": {
+     "stringValue": "মোঃ আলী গাইন"
+    },
+    "fontFamily": {
+     "stringValue": "Anek Bangla"
+    },
+    "adEnabled": {
+     "booleanValue": false
+    },
+    "address": {
+     "stringValue": "হায়দারগঞ্জ, চাঁদপুর"
+    },
+    "phone": {
+     "stringValue": ""
+    },
+    "adPlaceArticleMiddle": {
+     "booleanValue": false
+    },
+    "adPlaceTop": {
+     "booleanValue": true
+    }
+   }
+  }
+ ]
+}

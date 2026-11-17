@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cupandgo-ksa.github.io/haiderganj-news/sitemap.xml
