@@ -2,12 +2,12 @@ importScripts('https://www.gstatic.com/firebasejs/10.12.5/firebase-app-compat.js
 importScripts('https://www.gstatic.com/firebasejs/10.12.5/firebase-messaging-compat.js');
 
 firebase.initializeApp({
-  apiKey: "YOUR_NEW_API_KEY",
+  apiKey: "AIzaSyDeBXXUWrmOG3wAnTN93649zXzL06_BBKY",
   authDomain: "haiderganj-news.firebaseapp.com",
   projectId: "haiderganj-news",
   storageBucket: "haiderganj-news.firebasestorage.app",
-  messagingSenderId: "YOUR_NEW_SENDER_ID",
-  appId: "YOUR_NEW_APP_ID"
+  messagingSenderId: "120933861289",
+  appId: "1:120933861289:web:7293a28245bfbc4d0e26b8"
 });
 
 const messaging = firebase.messaging();
